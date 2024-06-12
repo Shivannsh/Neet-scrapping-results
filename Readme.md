@@ -9,7 +9,7 @@ First, install all the dependencies:
 ```bash
 npm install
 ```
-### Running the Program
+## Running the Program
 
 To run the program, use:
 
@@ -17,7 +17,7 @@ To run the program, use:
 npm run dev
 ```
 
-#### How It Works 
+## How It Works 
 
 **API Requests in Batches:** The program sends API requests in batches of 31 to the NTA website. This is done using the solve function which constructs and sends the request.
 
